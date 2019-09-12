@@ -1,0 +1,30 @@
+
+#! /bin/bash
+EXISTE="si"
+
+case "$EXISTE" in
+si)
+	echo es "$EXISTE"
+;;
+no)
+	echo "no"
+;;
+*)
+	nose
+;;
+esac
+
+#i=0
+#while
+# [ $i -lt 10 ]
+
+#do
+#	echo $i
+#	i=$((i+1))
+#done
+
+for i in `ls`
+
+do
+	cat $i
+done
