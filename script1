@@ -23,7 +23,11 @@ esac
 #	i=$((i+1))
 #done
 #fdhadpoj
-#hola juan
+<<<<<<< HEAD
+#holajuan
+=======
+#feature
+>>>>>>> parent of a4a119d... Revert "le dije en que branch estaba"
 for i in `ls`
 
 do
