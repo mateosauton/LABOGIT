@@ -23,6 +23,7 @@ esac
 #	i=$((i+1))
 #done
 #fdhadpoj
+#feature
 for i in `ls`
 
 do
