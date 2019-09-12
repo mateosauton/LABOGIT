@@ -22,12 +22,9 @@ esac
 #	echo $i
 #	i=$((i+1))
 #done
-#fdhadpoj
-<<<<<<< HEAD
-#holajuan
-=======
+#fdhadpoj 
+#holaju
 #feature
->>>>>>> parent of a4a119d... Revert "le dije en que branch estaba"
 for i in `ls`
 
 do
