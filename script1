@@ -23,6 +23,7 @@ esac
 #	i=$((i+1))
 #done
 #fdhadpoj
+#hola juan
 for i in `ls`
 
 do
